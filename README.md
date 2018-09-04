@@ -1,7 +1,5 @@
 # Workman Bindings for Vim-Like Applications
 
-WARNING: Work-in-progress, do not install yet!
-
 I call this the "give me h, j, k and l back but don't screw around with much
 else" mapping.  Most keys are in their [Workman](https://workmanlayout.org/)
 positions, a few are in QWERTY and only two are in neither.
@@ -35,7 +33,7 @@ position.
 
 # Installation
 
-    git clone git://github.com/ajgrf/workman-vim-bindings ~/.workman
+    git clone https://github.com/ajgrf/workman-vim-bindings ~/.workman
 
 Add to .vimrc:
     source ~/.workman/vimrc
