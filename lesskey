@@ -1,7 +1,4 @@
 #command
-h    left-scroll
-l    left-scroll
-i    right-scroll
 n    forw-line
 N    forw-line-force
 e    back-line

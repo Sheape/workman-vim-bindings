@@ -53,4 +53,4 @@ Add to .tmux.conf:
     source-file ~/.workman/tmux
 
 Remap less:
-    lesskey ~/.workman/less
+    lesskey ~/.workman/lesskey
