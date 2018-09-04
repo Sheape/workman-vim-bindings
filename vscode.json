@@ -25,7 +25,11 @@
             "after": ["<up>"]
         },
         {
-            "before": ["i"],
+            "before": ["y"],
+            "after": ["<left>"]
+        },
+        {
+            "before": ["o"],
             "after": ["<right>"]
         }
     ],
@@ -43,20 +47,12 @@
             "after": ["N"]
         },
         {
-            "before": ["u"],
-            "after": ["i"]
+            "before": ["j"],
+            "after": ["y"]
         },
         {
-            "before": ["U"],
-            "after": ["I"]
-        },
-        {
-            "before": ["l"],
-            "after": ["u"]
-        },
-        {
-            "before": ["L"],
-            "after": ["U"]
+            "before": ["J"],
+            "after": ["Y"]
         },
         {
             "before": ["N"],
@@ -67,16 +63,28 @@
             "after": ["K"]
         },
         {
-            "before": ["I"],
+            "before": ["Y"],
+            "after": ["H"]
+        },
+        {
+            "before": ["O"],
             "after": ["L"]
         },
         {
-            "before": ["j"],
+            "before": ["h"],
             "after": ["e"]
         },
         {
-            "before": ["J"],
+            "before": ["H"],
             "after": ["E"]
+        },
+        {
+            "before": ["l"],
+            "after": ["o"]
+        },
+        {
+            "before": ["L"],
+            "after": ["O"]
         }
     ]
 }
