@@ -50,7 +50,7 @@ Add to .muttrc:
     source ~/.workman/muttrc
 
 Add to .tmux.conf:
-    source-file ~/.workman/tmux
+    source-file ~/.workman/tmux.conf
 
 Remap less:
     lesskey ~/.workman/lesskey
