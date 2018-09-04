@@ -3,8 +3,8 @@
 WARNING: Work-in-progress, do not install yet!
 
 I call this the "give me h, j, k and l back but don't screw around with much
-else" mapping.  Most keys are in their Workman positions, a few are in QWERTY
-and only one is in neither.
+else" mapping.  Most keys are in their [Workman](https://workmanlayout.org/)
+positions, a few are in QWERTY and only two are in neither.
 
 ## Quick Look
 
@@ -23,7 +23,7 @@ Remapped Keys are in caps:
  * Y - Workman J: yank line.
  * ctrl-j - Workman ctrl-n: enter.
 
-## Keys in Neither QWERTY nor Workman position.
+## Keys in Neither QWERTY Nor Workman Position
 
  * l - QWERTY o: insert new line below cursor.
  * L - QWERTY O: insert new line above cursor.
