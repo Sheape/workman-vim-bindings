@@ -35,20 +35,23 @@ position.
 
     git clone https://github.com/ajgrf/workman-vim-bindings ~/.workman
 
-Add to .vimrc:
+Add to ~/.vimrc:
     source ~/.workman/vimrc
 
-Add to .zshrc:
+Add to ~/.zshrc:
     source ~/.workman/zshrc
 
-Add to .pentadactylrc/.vimperatorrc:
+Add to ~/.pentadactylrc or ~/.vimperatorrc:
     source ~/.workman/vimrc
 
-Add to .muttrc:
+Add to ~/.muttrc:
     source ~/.workman/muttrc
 
-Add to .tmux.conf:
+Add to ~/.tmux.conf:
     source-file ~/.workman/tmux.conf
+
+Add to ~/.config/zathura/zathurarc:
+    include ../../.workman/zathurarc
 
 Remap less:
     lesskey ~/.workman/lesskey

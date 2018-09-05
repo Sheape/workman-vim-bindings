@@ -1,0 +1,13 @@
+map n scroll down
+map e scroll up
+map y scroll left
+map o scroll right
+map k search forward
+map K search backward
+map l focus_inputbar ":open "
+# A limitation in zathura prevents a proper remapping of O
+map L focus_inputbar ":open "
+map N navigate next
+map E navigate previous
+map Y scroll page-top
+map O scroll page-bottom
