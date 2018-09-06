@@ -11,7 +11,7 @@
             "after": ["<c-n>"]
         }
     ],
-    "vim.otherModesKeyBindings": [
+    "vim.normalModeKeyBindings": [
         {
             "before": ["<c-n>"],
             "after": ["<cr>"]
@@ -33,7 +33,83 @@
             "after": ["<right>"]
         }
     ],
-    "vim.otherModesKeyBindingsNonRecursive": [
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<c-j>"],
+            "after": ["<c-n>"]
+        },
+        {
+            "before": ["k"],
+            "after": ["n"]
+        },
+        {
+            "before": ["K"],
+            "after": ["N"]
+        },
+        {
+            "before": ["j"],
+            "after": ["y"]
+        },
+        {
+            "before": ["J"],
+            "after": ["Y"]
+        },
+        {
+            "before": ["N"],
+            "after": ["J"]
+        },
+        {
+            "before": ["E"],
+            "after": ["K"]
+        },
+        {
+            "before": ["Y"],
+            "after": ["H"]
+        },
+        {
+            "before": ["O"],
+            "after": ["L"]
+        },
+        {
+            "before": ["h"],
+            "after": ["e"]
+        },
+        {
+            "before": ["H"],
+            "after": ["E"]
+        },
+        {
+            "before": ["l"],
+            "after": ["o"]
+        },
+        {
+            "before": ["L"],
+            "after": ["O"]
+        }
+    ],
+    "vim.visualModeKeyBindings": [
+        {
+            "before": ["<c-n>"],
+            "after": ["<cr>"]
+        },
+        {
+            "before": ["n"],
+            "after": ["<down>"]
+        },
+        {
+            "before": ["e"],
+            "after": ["<up>"]
+        },
+        {
+            "before": ["y"],
+            "after": ["<left>"]
+        },
+        {
+            "before": ["o"],
+            "after": ["<right>"]
+        }
+    ],
+    "vim.visualModeKeyBindingsNonRecursive": [
         {
             "before": ["<c-j>"],
             "after": ["<c-n>"]
