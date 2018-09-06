@@ -41,8 +41,8 @@ Add to ~/.vimrc:
 Add to ~/.zshrc:
     source ~/.workman/zshrc
 
-Add to ~/.pentadactylrc or ~/.vimperatorrc:
-    source ~/.workman/vimrc
+Add to ~/.config/tridactyl/tridactylrc or ~/.tridactylrc:
+    source ~/.workman/tridactylrc
 
 Add to ~/.muttrc:
     source ~/.workman/muttrc
