@@ -35,26 +35,20 @@ position.
 
     git clone https://github.com/ajgrf/workman-vim-bindings ~/.workman
 
-Add to ~/.vimrc:
-    source ~/.workman/vimrc
+Add to ~/.vimrc: `source ~/.workman/vimrc`
 
-Add to ~/.zshrc:
-    source ~/.workman/zshrc
+Add to ~/.zshrc: `source ~/.workman/zshrc`
 
 Add to ~/.config/tridactyl/tridactylrc or ~/.tridactylrc:
-    source ~/.workman/tridactylrc
+`source ~/.workman/tridactylrc`
 
-Add to ~/.muttrc:
-    source ~/.workman/muttrc
+Add to ~/.muttrc: `source ~/.workman/muttrc`
 
-Add to ~/.tmux.conf:
-    source-file ~/.workman/tmux.conf
+Add to ~/.tmux.conf: `source-file ~/.workman/tmux.conf`
 
-Add to ~/.config/zathura/zathurarc:
-    include ../../.workman/zathurarc
+Add to ~/.config/zathura/zathurarc: `include ../../.workman/zathurarc`
 
 Add to ~/.config/newsboat/config or ~/.config/newsbeuter/config:
-    include "~/.workman/newsboat.conf"
+`include "~/.workman/newsboat.conf"`
 
-Remap less:
-    lesskey ~/.workman/lesskey
+Remap less: `lesskey ~/.workman/lesskey`
