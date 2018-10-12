@@ -11,5 +11,5 @@ bind alias,attach,browser n next-entry
 bind alias,attach,browser \cn select-entry
 
 bind index \cn display-message
-bind index,pager j edit
-bind index J toggle-new
+bind index,pager h edit
+bind index,pager y display-toggle-weed
