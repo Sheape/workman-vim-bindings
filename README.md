@@ -49,6 +49,6 @@ Add to ~/.tmux.conf: `source-file ~/.workman/tmux.conf`
 Add to ~/.config/zathura/zathurarc: `include ../../.workman/zathurarc`
 
 Add to ~/.config/newsboat/config or ~/.config/newsbeuter/config:
-`include "~/.workman/newsboat.conf"`
+`include "~/.workman/newsboat.config"`
 
 Remap less: `lesskey ~/.workman/lesskey`
