@@ -51,4 +51,7 @@ Add to ~/.config/zathura/zathurarc: `include ../../.workman/zathurarc`
 Add to ~/.config/newsboat/config or ~/.config/newsbeuter/config:
 `include "~/.workman/newsboat.config"`
 
+Add to ~/.config/vis/visrc.lua:
+`vis:command('langmap neyojkhlNEYOJKHL jkhlyneoJKHLYNEO')`
+
 Remap less: `lesskey ~/.workman/lesskey`
