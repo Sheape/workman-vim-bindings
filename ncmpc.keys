@@ -39,8 +39,11 @@ key scroll-down-half = 4
 ## Scroll down half a screen
 key scroll-up-half = 21
 
+## Help screen
+key screen-help = '1',  265
+
 ## Start a music database update
-key db-update = 'u'
+key db-update = 18
 
 ## Move item up
 key move-up = 5
@@ -53,4 +56,7 @@ key find-next = 'k'
 
 ## Backward find previous
 key rfind-next = 'K'
+
+## Edit the current item
+key edit = 'h'
 
