@@ -55,3 +55,9 @@ Add to ~/.config/vis/visrc.lua:
 `vis:command('langmap neyojkhlNEYOJKHL jkhlyneoJKHLYNEO')`
 
 Remap less: `lesskey ~/.workman/lesskey`
+
+# GNU Emacs (Evil)
+
+See my configuration
+[here](https://github.com/ajgrf/dotfiles/blob/master/emacs.org#workman-layout)
+for an example of Workman Vim bindings for GNU Emacs.
