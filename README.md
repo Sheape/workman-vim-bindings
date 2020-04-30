@@ -23,10 +23,10 @@ Remapped Keys are in caps:
 
 ## Keys in Neither QWERTY Nor Workman Position
 
- * l - QWERTY o: insert new line below cursor.
- * L - QWERTY O: insert new line above cursor.
- * h - QWERTY e: cursor to end of word.
- * H - QWERTY E: cursor to end of whitespace-delimited word.
+ * l - QWERTY m: insert new line below cursor.
+ * L - QWERTY M: insert new line above cursor.
+ * h - QWERTY d: cursor to end of word.
+ * H - QWERTY D: cursor to end of whitespace-delimited word.
 
 This is an unfortunate logistical necessity. All other keys are in Workman
 position.
