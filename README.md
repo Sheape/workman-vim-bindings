@@ -4,13 +4,27 @@ I call this the "give me h, j, k and l back but don't screw around with much
 else" mapping.  Most keys are in their [Workman](https://workmanlayout.org/)
 positions, a few are in QWERTY and only two are in neither.
 
+## NOTE
+
+This is a modified version of [this repo](https://github.com/ajgrf/workman-vim-bindings). 
+So be sure to check that out if you want to see the original concept.
+
+The following added keys are remap base on what I prefer and is comfortable:
+
+Workman r - Qwerty e -> function c - change modifier.
+Workman u - Qwerty i -> function i - enter Insert Mode.
+Workman i - Qwerty , -> function u - undo changes.
+Workman m - Qwerty c -> function r - replace character or enter Replace Mode.
+Workman c - Qwerty v -> function m - Set Mark at cursor position.
+
 ## Quick Look
 
 Remapped Keys are in caps:
+(Overview of Workman Layout with modified remaps in vim)
 
-    qdrwb Jfup;
-    asHtg YNEOi
-    zxmcv KL,./
+    qdRwb JfUp;
+    asHtg YNEOI
+    zxMCv KL,./
 
 ## Keys in QWERTY Position
 
@@ -33,7 +47,7 @@ position.
 
 # Installation
 
-    git clone https://github.com/ajgrf/workman-vim-bindings ~/.workman
+    git clone https://github.com/Sheape/workman-vim-bindings ~/.workman
 
 Add to ~/.vimrc: `source ~/.workman/vimrc`
 
