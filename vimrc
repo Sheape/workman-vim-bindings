@@ -6,6 +6,12 @@ noremap j y
 noremap k n
 noremap h e
 noremap l o
+noremap r c
+noremap m r
+noremap i u
+noremap u i
+noremap k n
+noremap c m
 
 noremap N J
 noremap E K
@@ -15,6 +21,10 @@ noremap J Y
 noremap K N
 noremap H E
 noremap L O
+noremap U I
+noremap M R
+noremap C M
+noremap R C
 
 noremap gn gj
 noremap ge gk
