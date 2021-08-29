@@ -11,11 +11,11 @@ So be sure to check that out if you want to see the original concept.
 
 The following added keys are remap base on what I prefer and is comfortable:
 
-Workman r - Qwerty e -> function c - change modifier.
-Workman u - Qwerty i -> function i - enter Insert Mode.
-Workman i - Qwerty , -> function u - undo changes.
-Workman m - Qwerty c -> function r - replace character or enter Replace Mode.
-Workman c - Qwerty v -> function m - Set Mark at cursor position.
+* Workman r - Qwerty e -> function c - change modifier.
+* Workman u - Qwerty i -> function i - enter Insert Mode.
+* Workman i - Qwerty , -> function u - undo changes.
+* Workman m - Qwerty c -> function r - replace character or enter Replace Mode.
+* Workman c - Qwerty v -> function m - Set Mark at cursor position.
 
 ## Quick Look
 
